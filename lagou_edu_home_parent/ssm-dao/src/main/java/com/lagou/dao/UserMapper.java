@@ -11,4 +11,6 @@ public interface UserMapper {
         用户分页&多条件组合查询
      */
     public List<User> findAllUserByPage(UserVo userVo);
+    
+     public List<User> findAllUserByPage2(UserVo userVo);
 }
