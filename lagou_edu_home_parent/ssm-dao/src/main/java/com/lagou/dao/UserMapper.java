@@ -13,4 +13,10 @@ public interface UserMapper {
     public List<User> findAllUserByPage(UserVo userVo);
     
      public List<User> findAllUserByPage2(UserVo userVo);
+
+     public void add1();
+    public void add2();
+    public void add3();
+    public void add4();
+    public void add5();
 }
