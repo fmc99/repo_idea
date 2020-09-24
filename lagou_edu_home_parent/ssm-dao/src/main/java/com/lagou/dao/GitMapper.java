@@ -7,6 +7,9 @@ public class GitMapper {
     public void update(){
 
     }
+    public void testgit(){
+
+    }
     public void dev(){
 
     }
